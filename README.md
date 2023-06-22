@@ -1,7 +1,7 @@
 # Packet-Tracer-Rounter-Example
 
 ## Contextualization
-In this example, we have 3 hosts connected through a switch, which is connected to the router with a gateway of "192.168.0.254"
+In this example, we have 3 Hosts connected through a Switch, which is connected to the Router with a gateway of "192.168.0.254"
 
 ## Devices:
 - 4 - Straight-Through Cable
